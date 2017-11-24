@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cute cattos and doggos</string>
+    <string name="button">Next!</string>
+    <string name="doghug">doghug</string>
+    <string name="title_activity_button_press">ButtonPress</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="catfridge">catfridge</string>
+    <string name="catboyes">catboyes</string>
+</resources>
